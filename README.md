@@ -1,4 +1,8 @@
-# PIGIN: Private Interest Groups, Including Noise
+## PIGIN: Private Interest Groups, Including Noise
+
+# **This proposal has been withdrawn —**
+# **Please see its successor, [TURTLEDOVE](https://github.com/michaelkleber/turtledove)**
+
 
 ## Introduction
 
